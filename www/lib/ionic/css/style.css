@@ -1,0 +1,43 @@
+.person{
+  margin: 10px;
+  background-color: rgb(232, 235, 239);
+  text-align: center;
+  float: center;
+  width: 100%;
+
+}
+
+.profile-picture{
+  color: rgb(136, 136, 136);
+  vertical-align: left;
+  float: left;
+  border-radius: 50%;
+  width: 75px;
+  height: 75px;
+}
+
+.name{
+  color:#000000;
+  float: left;
+}
+
+.picture{
+  margin: 10px;
+  line-height: 250px;
+  background-color: rgb(232, 235, 239);
+  text-align: center;
+  float:center;
+}
+
+#like{
+  border-radius:-1px -1px -1px -1px;
+}
+
+.tag{
+  color: blue;
+}
+
+
+.big{
+  font-size: 15px;
+}
